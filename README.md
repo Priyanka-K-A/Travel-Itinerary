@@ -6,7 +6,7 @@
 :small_blue_diamond: User can view complete details about the place with Maps, Hotel & Restaurant facilities and Transport too. <br />
 :small_blue_diamond: It suggests recommends highly and most visited destinations to the users. <br />
 
-### Steps:ladder:
+### Steps:
 
 1. Install **`Node.js`**
 2. Get started with **`Create-React-App`**. It will create a new Project.
